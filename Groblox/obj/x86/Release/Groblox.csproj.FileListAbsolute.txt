@@ -1,0 +1,12 @@
+C:\Users\Lukigame\Documents\Visual Studio 2012\Projects\Groblox\Groblox\bin\x86\Release\Groblox.exe.config
+C:\Users\Lukigame\Documents\Visual Studio 2012\Projects\Groblox\Groblox\bin\x86\Release\Groblox.exe
+C:\Users\Lukigame\Documents\Visual Studio 2012\Projects\Groblox\Groblox\bin\x86\Release\Groblox.pdb
+C:\Users\Lukigame\Documents\Visual Studio 2012\Projects\Groblox\Groblox\obj\x86\Release\Groblox.csprojResolveAssemblyReference.cache
+C:\Users\Lukigame\Documents\Visual Studio 2012\Projects\Groblox\Groblox\obj\x86\Release\Groblox.Groblox.resources
+C:\Users\Lukigame\Documents\Visual Studio 2012\Projects\Groblox\Groblox\obj\x86\Release\Groblox.Properties.Resources.resources
+C:\Users\Lukigame\Documents\Visual Studio 2012\Projects\Groblox\Groblox\obj\x86\Release\Groblox.csproj.GenerateResource.Cache
+C:\Users\Lukigame\Documents\Visual Studio 2012\Projects\Groblox\Groblox\obj\x86\Release\Groblox.exe
+C:\Users\Lukigame\Documents\Visual Studio 2012\Projects\Groblox\Groblox\obj\x86\Release\Groblox.pdb
+C:\Users\Lukigame\Desktop\Groblox\Groblox\bin\x86\Release\Groblox.exe.config
+C:\Users\Lukigame\Desktop\Groblox\Groblox\obj\x86\Release\Groblox.exe
+C:\Users\Lukigame\Desktop\Groblox\Groblox\obj\x86\Release\Groblox.pdb
